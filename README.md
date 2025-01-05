@@ -4,3 +4,6 @@
 
 
 ![](https://github.com/dainik-ui/Superstore/blob/main/Screenshot%202025-01-05%20193221.png)
+
+
+![](https://github.com/dainik-ui/Superstore/blob/main/Screenshot%202025-01-05%20193239.png)
